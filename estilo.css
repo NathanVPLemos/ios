@@ -1,0 +1,44 @@
+body{
+   background-image: url(https://ios.org.br/wp-content/uploads/2022/05/bg3-1-1.webp);
+    color:rgb(0, 0, 0);
+    background-size: 115%;
+    
+}
+
+div{
+    background-image: linear-gradient( red, purple, blue)
+}
+p:first-child{
+    color: rgb(255, 255, 255) ;
+}
+
+
+P:first-letter{
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+}
+
+p:nth-child(2){
+    color: rgb(253, 253, 255);
+}
+
+p:last-child{
+    color: rgb(255, 255, 255);
+}
+
+p:last-of-type{
+    color:rgb(255, 255, 255);
+}
+
+footer{
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+ul{
+    color: white;
+}
